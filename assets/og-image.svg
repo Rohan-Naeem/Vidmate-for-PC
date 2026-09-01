@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="ogTitle">
+  <title id="ogTitle">VidMate — Latest Version and Installation Guide</title>
+  <defs>
+    <linearGradient id="ogBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e0f12"/>
+      <stop offset="1" stop-color="#17181c"/>
+    </linearGradient>
+    <linearGradient id="ogAccent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#23d5ab"/>
+      <stop offset="1" stop-color="#1bb992"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#ogBg)"/>
+
+  <!-- decorative circles -->
+  <circle cx="1040" cy="120" r="220" fill="#23d5ab" opacity="0.06"/>
+  <circle cx="120" cy="560" r="180" fill="#23d5ab" opacity="0.05"/>
+
+  <!-- app tile icon -->
+  <rect x="90" y="90" width="120" height="120" rx="30" fill="url(#ogAccent)"/>
+  <path d="M132 130 L182 150 L132 170 Z" fill="#06110d"/>
+
+  <text x="90" y="300" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="64" font-weight="800" fill="#f2f3f5">VidMate</text>
+  <text x="90" y="360" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="34" font-weight="600" fill="#a7abb5">Latest Version &amp; Installation Guide</text>
+
+  <rect x="90" y="410" width="220" height="46" rx="23" fill="none" stroke="#2b2d34" stroke-width="2"/>
+  <text x="130" y="440" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700" fill="#23d5ab">Independent Guide</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 640" width="320" height="640" role="img" aria-labelledby="s3Title">
+  <title id="s3Title">VidMate screenshot placeholder — download manager view</title>
+  <rect width="320" height="640" rx="28" fill="#1d1f24"/>
+  <rect x="1" y="1" width="318" height="638" rx="27" fill="none" stroke="#2b2d34" stroke-width="2"/>
+  <rect x="24" y="40" width="272" height="36" rx="10" fill="#212329"/>
+  <rect x="24" y="100" width="272" height="120" rx="16" fill="#212329"/>
+  <rect x="44" y="130" width="232" height="10" rx="5" fill="#23d5ab" opacity="0.5"/>
+  <rect x="44" y="130" width="130" height="10" rx="5" fill="#23d5ab"/>
+  <rect x="44" y="160" width="120" height="10" rx="5" fill="#2b2d34"/>
+  <rect x="44" y="184" width="200" height="10" rx="5" fill="#24262c"/>
+  <rect x="24" y="236" width="272" height="60" rx="14" fill="#212329"/>
+  <rect x="24" y="308" width="272" height="60" rx="14" fill="#212329"/>
+  <rect x="24" y="380" width="272" height="60" rx="14" fill="#212329"/>
+  <text x="160" y="480" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600" fill="#74788380">VidMate Screenshot</text>
+  <text x="160" y="504" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#74788380">Screenshot will be added here</text>
+</svg>
