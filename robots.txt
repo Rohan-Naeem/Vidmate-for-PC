@@ -1,4 +1,4 @@
 User-agent: *
 
 
-Sitemap: https://YOURDOMAIN.com/sitemap.xml
+Sitemap: https://vidmate-for-pc.vercel.app/sitemap.xml
